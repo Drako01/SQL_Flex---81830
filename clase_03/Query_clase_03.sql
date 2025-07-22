@@ -172,8 +172,10 @@ SELECT a.nombre, a.apellido, i.inscription_at AS fecha_inscripcion
     WHERE i.inscription_at < DATE_SUB(NOW(), INTERVAL 1 YEAR);
     
     
-    
-    
-    
-    
+-- DDL
+TRUNCATE inscripciones;
+
+-- No es romendable por ser DESTRUCTIVO
+RENAME TABLE alumnos TO estudiantes;
+RENAME TABLE estudiantes TO alumnos;
     
