@@ -1,0 +1,11 @@
+id_alumno,nombre,apellido,email,dni,edad,telefono,nacionalidad
+1,Diego,Fernandez,diego@mail.com,23565656,18,1133366,Argentina
+2,Sabrina,Gonzalez,sabri@gmail.com,33556565,18,11555666,Argentina
+3,Soledad,Pastoruti,lasole@mail.com,40565655,35,1156666,Brasil
+4,Enrique,Octavo,henry@mail.com,6521212,18,2265656,Argentina
+5,Fabrizzio,Primero,fabri@mail.com,2564862,18,2299656,Argentina
+10,Micaela,Fernandez,mica@gmail.com,33365656,25,12345678,Uruguay
+11,"Sabrina Lorena",Gonzalez,sabrilo@mail.com,33599965,29,11551166,Brasil
+12,Soledad,Hecheverrria,sole@gmail.com,4999655,35,11534666,Uruguay
+13,Enrique,Pintos,enrique@mail.com,16521212,22,12265656,Chile
+18,Analia,Ramirez,NULL,27565656,NULL,NULL,Argentina

@@ -1,0 +1,187 @@
+[
+	{
+		"idx_alumno" : 1,
+		"idx_curso" : 1,
+		"inscription_at" : "2025-07-29 20:37:56"
+	},
+	{
+		"idx_alumno" : 1,
+		"idx_curso" : 2,
+		"inscription_at" : "2025-07-29 20:37:56"
+	},
+	{
+		"idx_alumno" : 1,
+		"idx_curso" : 6,
+		"inscription_at" : "2025-07-29 20:37:56"
+	},
+	{
+		"idx_alumno" : 1,
+		"idx_curso" : 8,
+		"inscription_at" : "2025-08-12 19:37:31"
+	},
+	{
+		"idx_alumno" : 1,
+		"idx_curso" : 9,
+		"inscription_at" : "2025-08-12 19:37:31"
+	},
+	{
+		"idx_alumno" : 1,
+		"idx_curso" : 11,
+		"inscription_at" : "2025-08-12 20:10:19"
+	},
+	{
+		"idx_alumno" : 1,
+		"idx_curso" : 12,
+		"inscription_at" : "2025-08-12 20:52:43"
+	},
+	{
+		"idx_alumno" : 2,
+		"idx_curso" : 4,
+		"inscription_at" : "2025-07-29 20:37:56"
+	},
+	{
+		"idx_alumno" : 2,
+		"idx_curso" : 6,
+		"inscription_at" : "2025-07-29 20:37:56"
+	},
+	{
+		"idx_alumno" : 2,
+		"idx_curso" : 11,
+		"inscription_at" : "2025-08-12 20:10:19"
+	},
+	{
+		"idx_alumno" : 2,
+		"idx_curso" : 12,
+		"inscription_at" : "2025-08-12 20:52:43"
+	},
+	{
+		"idx_alumno" : 3,
+		"idx_curso" : 3,
+		"inscription_at" : "2025-07-29 20:37:56"
+	},
+	{
+		"idx_alumno" : 3,
+		"idx_curso" : 8,
+		"inscription_at" : "2025-08-12 19:37:31"
+	},
+	{
+		"idx_alumno" : 3,
+		"idx_curso" : 9,
+		"inscription_at" : "2025-08-12 19:37:31"
+	},
+	{
+		"idx_alumno" : 3,
+		"idx_curso" : 11,
+		"inscription_at" : "2025-08-12 20:10:19"
+	},
+	{
+		"idx_alumno" : 3,
+		"idx_curso" : 12,
+		"inscription_at" : "2025-08-12 20:52:43"
+	},
+	{
+		"idx_alumno" : 4,
+		"idx_curso" : 1,
+		"inscription_at" : "2025-07-29 20:37:56"
+	},
+	{
+		"idx_alumno" : 4,
+		"idx_curso" : 2,
+		"inscription_at" : "2025-07-29 20:37:56"
+	},
+	{
+		"idx_alumno" : 4,
+		"idx_curso" : 3,
+		"inscription_at" : "2025-07-29 20:37:56"
+	},
+	{
+		"idx_alumno" : 4,
+		"idx_curso" : 11,
+		"inscription_at" : "2025-08-12 20:10:19"
+	},
+	{
+		"idx_alumno" : 4,
+		"idx_curso" : 12,
+		"inscription_at" : "2025-08-12 20:52:43"
+	},
+	{
+		"idx_alumno" : 5,
+		"idx_curso" : 8,
+		"inscription_at" : "2025-08-12 19:37:31"
+	},
+	{
+		"idx_alumno" : 5,
+		"idx_curso" : 9,
+		"inscription_at" : "2025-08-12 19:37:31"
+	},
+	{
+		"idx_alumno" : 5,
+		"idx_curso" : 11,
+		"inscription_at" : "2025-08-12 20:10:19"
+	},
+	{
+		"idx_alumno" : 5,
+		"idx_curso" : 12,
+		"inscription_at" : "2025-08-12 20:52:43"
+	},
+	{
+		"idx_alumno" : 10,
+		"idx_curso" : 8,
+		"inscription_at" : "2025-08-12 19:37:31"
+	},
+	{
+		"idx_alumno" : 10,
+		"idx_curso" : 9,
+		"inscription_at" : "2025-08-12 19:37:31"
+	},
+	{
+		"idx_alumno" : 10,
+		"idx_curso" : 11,
+		"inscription_at" : "2025-08-12 20:10:19"
+	},
+	{
+		"idx_alumno" : 10,
+		"idx_curso" : 12,
+		"inscription_at" : "2025-08-12 20:52:43"
+	},
+	{
+		"idx_alumno" : 11,
+		"idx_curso" : 11,
+		"inscription_at" : "2025-08-12 20:10:19"
+	},
+	{
+		"idx_alumno" : 11,
+		"idx_curso" : 12,
+		"inscription_at" : "2025-08-12 20:52:43"
+	},
+	{
+		"idx_alumno" : 12,
+		"idx_curso" : 8,
+		"inscription_at" : "2025-08-12 19:37:31"
+	},
+	{
+		"idx_alumno" : 12,
+		"idx_curso" : 9,
+		"inscription_at" : "2025-08-12 19:37:31"
+	},
+	{
+		"idx_alumno" : 12,
+		"idx_curso" : 11,
+		"inscription_at" : "2025-08-12 20:10:19"
+	},
+	{
+		"idx_alumno" : 12,
+		"idx_curso" : 12,
+		"inscription_at" : "2025-08-12 20:52:43"
+	},
+	{
+		"idx_alumno" : 13,
+		"idx_curso" : 11,
+		"inscription_at" : "2025-08-12 20:10:19"
+	},
+	{
+		"idx_alumno" : 13,
+		"idx_curso" : 12,
+		"inscription_at" : "2025-08-12 20:52:43"
+	}
+]

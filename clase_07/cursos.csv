@@ -1,0 +1,13 @@
+id_curso,nombre_curso,id_categoria
+1,"SQL Basico",1
+2,"SQL Avanzado",1
+3,JavaScript,2
+4,Backend,2
+5,Java,2
+6,Python,2
+7,Docker,3
+8,AWS,3
+9,Figma,4
+10,Canva,4
+11,"Google Cloud",3
+12,Azure,3

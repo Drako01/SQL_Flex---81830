@@ -1,0 +1,102 @@
+[
+	{
+		"id_alumno" : 1,
+		"nombre" : "Diego",
+		"apellido" : "Fernandez",
+		"email" : "diego@mail.com",
+		"dni" : 23565656,
+		"edad" : 18,
+		"telefono" : "1133366",
+		"nacionalidad" : "Argentina"
+	},
+	{
+		"id_alumno" : 2,
+		"nombre" : "Sabrina",
+		"apellido" : "Gonzalez",
+		"email" : "sabri@gmail.com",
+		"dni" : 33556565,
+		"edad" : 18,
+		"telefono" : "11555666",
+		"nacionalidad" : "Argentina"
+	},
+	{
+		"id_alumno" : 3,
+		"nombre" : "Soledad",
+		"apellido" : "Pastoruti",
+		"email" : "lasole@mail.com",
+		"dni" : 40565655,
+		"edad" : 35,
+		"telefono" : "1156666",
+		"nacionalidad" : "Brasil"
+	},
+	{
+		"id_alumno" : 4,
+		"nombre" : "Enrique",
+		"apellido" : "Octavo",
+		"email" : "henry@mail.com",
+		"dni" : 6521212,
+		"edad" : 18,
+		"telefono" : "2265656",
+		"nacionalidad" : "Argentina"
+	},
+	{
+		"id_alumno" : 5,
+		"nombre" : "Fabrizzio",
+		"apellido" : "Primero",
+		"email" : "fabri@mail.com",
+		"dni" : 2564862,
+		"edad" : 18,
+		"telefono" : "2299656",
+		"nacionalidad" : "Argentina"
+	},
+	{
+		"id_alumno" : 10,
+		"nombre" : "Micaela",
+		"apellido" : "Fernandez",
+		"email" : "mica@gmail.com",
+		"dni" : 33365656,
+		"edad" : 25,
+		"telefono" : "12345678",
+		"nacionalidad" : "Uruguay"
+	},
+	{
+		"id_alumno" : 11,
+		"nombre" : "Sabrina Lorena",
+		"apellido" : "Gonzalez",
+		"email" : "sabrilo@mail.com",
+		"dni" : 33599965,
+		"edad" : 29,
+		"telefono" : "11551166",
+		"nacionalidad" : "Brasil"
+	},
+	{
+		"id_alumno" : 12,
+		"nombre" : "Soledad",
+		"apellido" : "Hecheverrria",
+		"email" : "sole@gmail.com",
+		"dni" : 4999655,
+		"edad" : 35,
+		"telefono" : "11534666",
+		"nacionalidad" : "Uruguay"
+	},
+	{
+		"id_alumno" : 13,
+		"nombre" : "Enrique",
+		"apellido" : "Pintos",
+		"email" : "enrique@mail.com",
+		"dni" : 16521212,
+		"edad" : 22,
+		"telefono" : "12265656",
+		"nacionalidad" : "Chile"
+	},
+	{
+		"id_alumno" : 18,
+		"nombre" : "Analia",
+		"apellido" : "Ramirez",
+		"email" : null,
+		"dni" : 27565656,
+		"edad" : null,
+		"telefono" : null,
+		"nacionalidad" : "Argentina"
+	}
+]

@@ -1,0 +1,18 @@
+[
+	{
+		"id_categoria" : 1,
+		"nombre_categoria" : "Base de Datos"
+	},
+	{
+		"id_categoria" : 2,
+		"nombre_categoria" : "Programacion"
+	},
+	{
+		"id_categoria" : 3,
+		"nombre_categoria" : "Cloud"
+	},
+	{
+		"id_categoria" : 4,
+		"nombre_categoria" : "UX/UI"
+	}
+]

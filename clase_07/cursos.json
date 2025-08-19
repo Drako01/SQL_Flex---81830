@@ -1,0 +1,62 @@
+[
+	{
+		"id_curso" : 1,
+		"nombre_curso" : "SQL Basico",
+		"id_categoria" : 1
+	},
+	{
+		"id_curso" : 2,
+		"nombre_curso" : "SQL Avanzado",
+		"id_categoria" : 1
+	},
+	{
+		"id_curso" : 3,
+		"nombre_curso" : "JavaScript",
+		"id_categoria" : 2
+	},
+	{
+		"id_curso" : 4,
+		"nombre_curso" : "Backend",
+		"id_categoria" : 2
+	},
+	{
+		"id_curso" : 5,
+		"nombre_curso" : "Java",
+		"id_categoria" : 2
+	},
+	{
+		"id_curso" : 6,
+		"nombre_curso" : "Python",
+		"id_categoria" : 2
+	},
+	{
+		"id_curso" : 7,
+		"nombre_curso" : "Docker",
+		"id_categoria" : 3
+	},
+	{
+		"id_curso" : 8,
+		"nombre_curso" : "AWS",
+		"id_categoria" : 3
+	},
+	{
+		"id_curso" : 9,
+		"nombre_curso" : "Figma",
+		"id_categoria" : 4
+	},
+	{
+		"id_curso" : 10,
+		"nombre_curso" : "Canva",
+		"id_categoria" : 4
+	},
+	{
+		"id_curso" : 11,
+		"nombre_curso" : "Google Cloud",
+		"id_categoria" : 3
+	},
+	{
+		"id_curso" : 12,
+		"nombre_curso" : "Azure",
+		"id_categoria" : 3
+	}
+]
