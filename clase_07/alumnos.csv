@@ -9,3 +9,4 @@ id_alumno,nombre,apellido,email,dni,edad,telefono,nacionalidad
 12,Soledad,Hecheverrria,sole@gmail.com,4999655,35,11534666,Uruguay
 13,Enrique,Pintos,enrique@mail.com,16521212,22,12265656,Chile
 18,Analia,Ramirez,NULL,27565656,NULL,NULL,Argentina
+19,Hecto,Fernandez,NULL,2235656,NULL,NULL,Brasil

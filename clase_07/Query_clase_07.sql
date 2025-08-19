@@ -58,4 +58,33 @@ USE coderhouse;
 - Insripciones
 */
 
+-- Importar una Tabla usando Load Data a partir de un archivo CSV
+
+SHOW VARIABLES LIKE 'local_infile';
+SET GLOBAL local_infile = 1;
+
+SHOW VARIABLES LIKE 'secure_file_priv';
+
+-- Desde carpeta Local CON PERMISOS
+LOAD DATA INFILE 'E:/CoderHouse/sql/SQL_Flex---81830/clase_07/inscripciones.csv'
+INTO TABLE inscripciones
+CHARACTER SET utf8mb4
+FIELDS TERMINATED BY ',' ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+IGNORE 1 LINES
+(idx_alumno, idx_curso, inscription_at);
+
+-- Desde Carpeta Segura Sin necesidad de Permisos
+LOAD DATA INFILE 'C:/Program Files/MySQL/MySQL Server 8.0/Uploads/inscripciones.csv'
+INTO TABLE inscripciones
+CHARACTER SET utf8mb4 
+FIELDS TERMINATED BY ',' ENCLOSED BY '"'
+LINES TERMINATED BY '\r\n'
+IGNORE 1 LINES
+(idx_alumno, idx_curso, inscription_at);
+
+
+
+
+
 
